@@ -1,0 +1,73 @@
+640	480
+640	480
+[39, 31]	[49, 38]
+Right   Right
+Left   Center
+640	480
+[43, 33]	[48, 38]
+Right   Right
+Left    Right
+640	480
+[39, 31]	[49, 36]
+Right   Right
+Left   Center
+640	480
+[40, 33]	[46, 38]
+Right   Right
+Left   Center
+640	480
+[42, 32]	[50, 37]
+Right   Right
+Left   Center
+640	480
+[42, 31]	[52, 36]
+Right   Right
+Left   Center
+640	480
+[39, 32]	[49, 37]
+Right   Right
+Left   Center
+640	480
+[37, 32]	[45, 36]
+Right   Right
+Left  left
+640	480
+[41, 33]	[48, 38]
+Right   Right
+Left   Center
+640	480
+[44, 32]	[53, 37]
+Right   Right
+Left    Right
+640	480
+[40, 31]	[52, 36]
+Right   Right
+Left   Center
+640	480
+[43, 32]	[53, 37]
+Right   Right
+Left    Right
+640	480
+[40, 32]	[50, 36]
+Right   Right
+Left   Center
+640	480
+[41, 33]	[49, 36]
+Right   Right
+Left   Center
+640	480
+[43, 33]	[48, 36]
+Right   Right
+Left    Right
+640	480
+[39, 31]	[43, 34]
+Right  Center
+Left   Center
+640	480
+[39, 31]	[46, 34]
+Right   Right
+Left   Center
+640	480
+[46, 28]	[54, 33]
+Right   Right
+Left    Right
